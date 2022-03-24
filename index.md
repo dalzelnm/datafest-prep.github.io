@@ -1,10 +1,10 @@
 ---
 layout: home
-title: STA 175
+title: Getting Ready for ASA DataFest
 nav_exclude: true
 seo:
   type: Course
-  name: STA 175
+  name: DataFest 
 ---
 
 # {{ site.tagline }}
@@ -13,8 +13,7 @@ seo:
 {: .fs-6 .fw-300 }
 
 
-Welcome to the course website for STA 175!
+This website is designed to help you prepare for participating in the American Statisical Association (ASA) DataFest. Here you will find activities to help you practice skills that will be useful during the competition. The actitivies are all in RStudio, which is free to download. 
 
 * Slides, handouts, and activities can be found in the [Course Calendar](https://sta175-s22.github.io/calendar/)
 
-* The [Syllabus](https://sta175-s22.github.io/about/) contains information about course policies
